@@ -1,2 +1,2 @@
 # ghdl_ls_prebuilt
-Environments to prebuilt GHDL Language Server
+Pre-built environment for GHDL Language Server
